@@ -1,7 +1,7 @@
 ranter.txt*   Plugin that integrates ranger with Vim
 
 ==============================================================================
-INTRODUCTION                                                               *ag*
+INTRODUCTION                                                           *ranger*
 
 This is a plugin to allow integration with ranger from inside Vim.
 It can be used to open files interactively. While the ranger window
