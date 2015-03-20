@@ -1,4 +1,4 @@
-function! ranger#chooseFile()
+function! ranger#launch()
     let temp = tempname()
     " The option "--choosefiles" was added in ranger 1.5.1. Use the next line
     " with ranger 1.4.2 through 1.5.0 instead.

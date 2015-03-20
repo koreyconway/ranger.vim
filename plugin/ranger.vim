@@ -1,1 +1,1 @@
-command! -bar Ranger call ranger#chooseFile()
+command! -bar Ranger call ranger#launch()
