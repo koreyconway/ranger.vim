@@ -1,0 +1,17 @@
+ranter.txt*   Plugin that integrates ranger with Vim
+
+==============================================================================
+INTRODUCTION                                                               *ag*
+
+This is a plugin to allow integration with ranger from inside Vim.
+It can be used to open files interactively. While the ranger window
+is open, the many wonderful features of ranger itself can be used
+(including moving and deleting files).
+
+:Ranger                                                            *:Ranger*
+
+    Launch ranger over current buffer
+
+See https://github.com/hut/ranger for more information.
+
+vim:tw=78:fo=tcq2:ft=help:norl:

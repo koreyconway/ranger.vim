@@ -1,1 +1,1 @@
-command! -bar RangerChooser call ranger#chooseFile()
+command! -bar Ranger call ranger#chooseFile()
