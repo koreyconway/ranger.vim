@@ -1,6 +1,10 @@
 # ranger.vim #
 This is a simple plugin to be able to load files using the [ranger](https://github.com/hut/ranger) file chooser.
 
+## Limitations ##
+This plugin currently only works in terminal Vim. If anyone makes it work in gvim/macvim then
+pull requests would be much appreciated.
+
 ## Installation ##
 Installation is like with any other vim plugin.
 Using a plugin manager is the easiest way.
